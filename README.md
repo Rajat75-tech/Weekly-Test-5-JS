@@ -1,1 +1,2 @@
-Hosted Link :- https://rajat75-tech.github.io/Weekly-Test-5-JS/
+Hosted Link :- https://weekly-test-5-js-rajat75-techs-projects.vercel.app/
+https://weekly-test-5-js-git-main-rajat75-techs-projects.vercel.app/
